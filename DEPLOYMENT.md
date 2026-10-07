@@ -4,7 +4,7 @@
 
 This app is currently hosted in **two places**:
 1. **Firebase Hosting** (primary): https://tsp-host-finder-tool.web.app
-2. **GitHub Pages** (legacy): https://nicunursekatie.github.io/sandwichprojectcollectionsites/
+2. **GitHub Pages** (legacy): https://the-sandwich-project.github.io/sandwichprojectcollectionsites/
 
 Both sites use the **same Firebase Firestore database** for host data.
 
@@ -163,4 +163,4 @@ Changes made in the admin panel are saved to Firestore and appear on both sites 
 
 Contact the project maintainer or check:
 - Firebase Console: https://console.firebase.google.com/project/tsp-host-finder-tool
-- GitHub Repository: https://github.com/nicunursekatie/sandwichprojectcollectionsites
+- GitHub Repository: https://github.com/The-Sandwich-Project/sandwichprojectcollectionsites

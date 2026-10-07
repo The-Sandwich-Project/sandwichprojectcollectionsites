@@ -27,7 +27,7 @@ Co-Authored-By: Claude <noreply@anthropic.com>"
         echo ""
         echo "🎉 Deployment complete!"
         echo "   Firebase: https://tsp-host-finder-tool.web.app"
-        echo "   GitHub Pages: https://nicunursekatie.github.io/sandwichprojectcollectionsites/"
+        echo "   GitHub Pages: https://the-sandwich-project.github.io/sandwichprojectcollectionsites/"
     else
         echo "❌ GitHub Pages sync failed"
         exit 1
