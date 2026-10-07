@@ -5967,7 +5967,7 @@ const HostAvailabilityApp = () => {
                 </div>
               </a>
               <a
-                href="https://nicunursekatie.github.io/sandwichinventory/inventorycalculator.html"
+                href="https://the-sandwich-project.github.io/sandwichinventory/inventorycalculator.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2.5 p-3 rounded-lg hover:shadow-lg transition-all"
